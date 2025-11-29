@@ -9,3 +9,10 @@ O site utiliza recursos como formulários, acessibilidade, imagens e layout líq
 
 O site apresenta o hotel e suas características, permite contato através de formulários e reservas a partir do site selecionando datas de check-in e check-out.
 
+Para executar, clique em <>Code e baixe o projeto como .zip. Extraia os arquivos e abra o index.html no seu navegador.
+
+ou acesse  https://adriano-202508192918.github.io/ProjetoFinalHTML/chale-hotel/index.html
+
+
+
+
